@@ -1,10 +1,7 @@
-#include <stdlib.h>
 #include <stdio.h>
-int main ()
+#include <stdlib.h>
+int main()
 {
-
-  printf("Hello, world!");
-  system("pause");
-  return 0;
-
+    printf("Hello, world!");
+    return 0;
 }
